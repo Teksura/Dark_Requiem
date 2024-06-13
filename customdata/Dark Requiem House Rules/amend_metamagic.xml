@@ -29,11 +29,10 @@
     </metamagic>
     <metamagic>
       <name>Power Point</name>
-      <forbidden amendoperation="addnode">
+      <amendoperation="addnode">
         <oneof>
           <quality>Purity Bonus (Adept)</quality>
         </oneof>
-      </forbidden>
     </metamagic>
   </metamagics>
   <!--
