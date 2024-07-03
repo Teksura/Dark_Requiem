@@ -91,8 +91,8 @@
 	<cyberlimbattributebonuscapoverride>True</cyberlimbattributebonuscapoverride>
 	<cyberlimbattributebonuscap>4</cyberlimbattributebonuscap>
 	<unclampattributeminimum>False</unclampattributeminimum>
-	<dronemods>False</dronemods>
-	<dronemodsmaximumpilot>False</dronemodsmaximumpilot>
+	<dronemods>True</dronemods>
+	<dronemodsmaximumpilot>True</dronemodsmaximumpilot>
 	<maxnumbermaxattributescreate>1</maxnumbermaxattributescreate>
 	<maxskillratingcreate>6</maxskillratingcreate>
 	<maxknowledgeskillratingcreate>6</maxknowledgeskillratingcreate>
@@ -192,6 +192,7 @@
 		<book>NF</book>
 		<book>KK</book>
 		<book>SW</book>
+		<book>DR</book>
 	</books>
 	<customdatadirectorynames>
 		<customdatadirectoryname>

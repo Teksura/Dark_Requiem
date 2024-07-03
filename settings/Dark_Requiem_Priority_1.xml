@@ -14,19 +14,34 @@
 	<dontdoublequalityrefunds>False</dontdoublequalityrefunds>
 	<ignoreart>False</ignoreart>
 	<cyberlegmovement>False</cyberlegmovement>
-	<allow2ndmaxattribute>False</allow2ndmaxattribute>
 	<contactpointsexpression>{CHAUnaug} * 3</contactpointsexpression>
 	<knowledgepointsexpression>({INTUnaug} + {LOGUnaug}) * 2</knowledgepointsexpression>
 	<chargenkarmatonuyenexpression>{Karma} * 2000 + {PriorityNuyen}</chargenkarmatonuyenexpression>
 	<boundspiritexpression>{CHA}</boundspiritexpression>
 	<compiledspriteexpression>{LOG}</compiledspriteexpression>
+	<essencemodifierpostexpression>{Modifier}</essencemodifierpostexpression>
+	<liftlimitexpression>{STR} * 15</liftlimitexpression>
+	<carrylimitexpression>{STR} * 10</carrylimitexpression>
+	<encumbranceintervalexpression>15</encumbranceintervalexpression>
+	<doencumbrancepenaltyphysicallimit>True</doencumbrancepenaltyphysicallimit>
+	<doencumbrancepenaltymovementspeed>False</doencumbrancepenaltymovementspeed>
+	<doencumbrancepenaltyagility>False</doencumbrancepenaltyagility>
+	<doencumbrancepenaltyreaction>False</doencumbrancepenaltyreaction>
+	<doencumbrancepenaltywoundmodifier>False</doencumbrancepenaltywoundmodifier>
+	<encumbrancepenaltyphysicallimit>1</encumbrancepenaltyphysicallimit>
+	<encumbrancepenaltymovementspeed>1</encumbrancepenaltymovementspeed>
+	<encumbrancepenaltyagility>1</encumbrancepenaltyagility>
+	<encumbrancepenaltyreaction>1</encumbrancepenaltyreaction>
+	<encumbrancepenaltywoundmodifier>1</encumbrancepenaltywoundmodifier>
 	<dronearmormultiplierenabled>False</dronearmormultiplierenabled>
 	<dronearmorflatnumber>2</dronearmorflatnumber>
 	<nosinglearmorencumbrance>False</nosinglearmorencumbrance>
 	<ignorecomplexformlimit>False</ignorecomplexformlimit>
 	<noarmorencumbrance>False</noarmorencumbrance>
+	<uncappedarmoraccessorybonuses>False</uncappedarmoraccessorybonuses>
 	<esslossreducesmaximumonly>False</esslossreducesmaximumonly>
 	<allowskillregrouping>True</allowskillregrouping>
+	<specializationsbreakskillgroups>True</specializationsbreakskillgroups>
 	<metatypecostskarma>True</metatypecostskarma>
 	<metatypecostskarmamultiplier>1</metatypecostskarmamultiplier>
 	<limbcount>6</limbcount>
@@ -40,7 +55,7 @@
 	<mysaddppcareer>False</mysaddppcareer>
 	<mysadeptsecondmagattribute>False</mysadeptsecondmagattribute>
 	<exceednegativequalities>True</exceednegativequalities>
-	<exceednegativequalitieslimit>True</exceednegativequalitieslimit>
+	<exceednegativequalitiesnobonus>True</exceednegativequalitiesnobonus>
 	<multiplyrestrictedcost>False</multiplyrestrictedcost>
 	<multiplyforbiddencost>False</multiplyforbiddencost>
 	<restrictedcostmultiplier>1</restrictedcostmultiplier>
@@ -49,6 +64,7 @@
 	<enableenemytracking>True</enableenemytracking>
 	<enemykarmaqualitylimit>True</enemykarmaqualitylimit>
 	<nuyenformat>#,0.##</nuyenformat>
+	<weightformat>#,0.###</weightformat>
 	<essenceformat>#,0.00</essenceformat>
 	<enforcecapacity>True</enforcecapacity>
 	<restrictrecoil>True</restrictrecoil>
@@ -77,6 +93,11 @@
 	<unclampattributeminimum>False</unclampattributeminimum>
 	<dronemods>False</dronemods>
 	<dronemodsmaximumpilot>False</dronemodsmaximumpilot>
+	<maxnumbermaxattributescreate>1</maxnumbermaxattributescreate>
+	<maxskillratingcreate>6</maxskillratingcreate>
+	<maxknowledgeskillratingcreate>6</maxknowledgeskillratingcreate>
+	<maxskillrating>12</maxskillrating>
+	<maxknowledgeskillrating>12</maxknowledgeskillrating>
 	<dicepenaltysustaining>2</dicepenaltysustaining>
 	<mininitiativedice>1</mininitiativedice>
 	<maxinitiativedice>5</maxinitiativedice>
@@ -171,6 +192,7 @@
 		<book>NF</book>
 		<book>KK</book>
 		<book>SW</book>
+		<book>DR</book>
 	</books>
 	<customdatadirectorynames>
 		<customdatadirectoryname>
