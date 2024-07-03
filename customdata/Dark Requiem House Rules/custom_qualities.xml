@@ -88,7 +88,7 @@
 					<ess grade="Omegaware">0.0001</ess>
 				</oneof>
 			</forbidden>
-			<source>NA</source>
+			<source>DR</source>
 			<page>15</page>
 			<notes>If ever your Magic rating changes, you must remove and re-add this quality to ensure your power points are properly calculated.</notes>
 		</quality>
@@ -118,7 +118,7 @@
 					<ess grade="Omegaware">0.0001</ess>
 				</oneof>
 			</forbidden>
-			<source>NA</source>
+			<source>DR</source>
 			<page>15</page>
 			<notes>If ever your Magic rating changes, you must remove and re-add this quality to ensure your power points are properly calculated.</notes>
 		</quality>

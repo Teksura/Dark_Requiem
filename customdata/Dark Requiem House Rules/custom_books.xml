@@ -17,17 +17,13 @@
     You can obtain the full source code for Chummer5a at
     https://github.com/chummer5a/chummer5a
 -->
-<!--This file is part a series of data files created for r/NeonAnarchy.
 
-	You can learn more at
-	https://www.reddit.com/r/NeonAnarchy
--->
 <chummer xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema books.xsd">
 	<books>
 		<book>
 			<id>829ed2ce-c22f-11ea-b3de-0242ac130004</id>
-			<name>Neon Anarchy</name>
-			<code>NA</code>
+			<name>Dark Requiem</name>
+			<code>DR</code>
 		</book>
 	</books>
 </chummer>
