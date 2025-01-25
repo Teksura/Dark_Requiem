@@ -25,5 +25,10 @@
 			<name>Dark Requiem</name>
 			<code>DR</code>
 		</book>
+<book>
+			<id>ba21dafc-25d4-4932-b1cf-974165880239</id>
+			<name>Milspec tech One</name>
+			<code>MST</code>
+		</book>
 	</books>
 </chummer>
