@@ -348,10 +348,6 @@
 			</bonus>
 		</quality>
 		<quality>
-			<name>Special Modifications</name>
-			<hide />
-		</quality>
-		<quality>
 			<name>Well, Actually...</name>
 			<hide amendoperation="addnode" />
 		</quality>
@@ -755,6 +751,10 @@
 		</quality>
 		<quality>
 			<name>Allergy (Common, Mild)</name>
+			<karma>0</karma>
+		</quality>
+<quality>
+			<name>Changeling (Class III SURGE)</name>
 			<karma>0</karma>
 		</quality>
 		<quality>

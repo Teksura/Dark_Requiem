@@ -17,52 +17,26 @@
     You can obtain the full source code for Chummer5a at
     https://github.com/chummer5a/chummer5a
 -->
-<!--This file is part a series of data files created for r/NeonAnarchy.
-
-	You can learn more at
-	https://www.reddit.com/r/NeonAnarchy
--->
 <chummer>
-	<spells>
-		<spell>
-			<name>Flame Burst</name>
-			<descriptor>Indirect, Elemental</descriptor>
-		</spell>
-		<spell>
-			<name>Convert Blood to Ichor</name>
-			<hide />
-		</spell>
-		<spell>
-			<name>Convince</name>
-			<hide />
-		</spell>
-		<spell>
-			<name>Inflict Disease</name>
-			<hide />
-		</spell>
-		<spell>
-			<name>Multiply Food</name>
-			<hide />
-		</spell>
-		<spell>
-			<name>Shape [Material]</name>
-			<hide />
-		</spell>
-		<spell>
-			<name>Turn To Goo</name>
-			<hide />
-		</spell>
-		<spell>
-			<name>Spirit Pact</name>
-			<hide />
-		</spell>
-		<spell>
-			<name>Petrify</name>
-			<hide />
-		</spell>
-		<spell>
-			<name>Growth</name>
-			<range>T</range>
-		</spell>
-	</spells>
+  <metatypes>
+    <metatype>
+      <name>Troll</name>
+      <qualities>
+        <negative amendoperation="addnode">
+          <quality removable="True">Horns</quality>
+        </negative>
+      </qualities>
+    </metatype>
+      <metatype xpathfilter="contains(name,'Shapeshifter')">
+        <metavariants>
+          <metavariant xpathfilter="name = 'Troll'">
+            <qualities>
+              <negative amendoperation="addnode">
+                <quality removable="True">Horns</quality>
+              </negative>
+            </qualities>
+          </metavariant>
+        </metavariants>
+      </metatype>
+  </metatypes>
 </chummer>
