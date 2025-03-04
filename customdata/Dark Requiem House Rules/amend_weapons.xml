@@ -41,10 +41,6 @@
 			<damage>Missile</damage>
 		</weapon>
 		<weapon>
-			<name>Stoner-Ares M-22A1</name>
-			<range>Medium/Heavy Machinegun</range>
-		</weapon>
-		<weapon>
 			<name>Krime Monster</name>
 			<range>Medium/Heavy Machinegun</range>
 			<spec>Machine Guns</spec>

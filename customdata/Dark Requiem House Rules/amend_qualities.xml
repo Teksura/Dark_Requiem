@@ -32,15 +32,7 @@
 			<hide amendoperation="addnode" />
 		</quality>
 		<quality>
-			<name>Archivist</name>
-			<hide amendoperation="addnode" />
-		</quality>
-		<quality>
 			<name>Better to be Feared Than Loved</name>
-			<hide amendoperation="addnode" />
-		</quality>
-		<quality>
-			<name>Borrowed Time</name>
 			<hide amendoperation="addnode" />
 		</quality>
 		<quality>
@@ -160,22 +152,8 @@
 			<hide amendoperation="addnode" />
 		</quality>
 		<quality>
-            <name>Code of Honor: Black Hat</name>
-            <hide amendoperation="addnode" /> 
-        </quality>
-		<quality>
-			<name>Consummate Professional</name>
-			<karma>3</karma>
-			<category>Positive</category>
-			<hide />
-		</quality>
-		<quality>
 			<name>Dead Emotion</name>
 			<hide amendoperation="addnode" />
-		</quality>
-		<quality>
-			<name>Dead SIN</name>
-			<hide />
 		</quality>
 		<quality>
 			<name>Earther</name>
@@ -186,28 +164,12 @@
 			<hide />
 		</quality>
 		<quality>
-			<name>Every Man For Himself</name>
-			<hide amendoperation="addnode" />
-		</quality>
-		<quality>
 			<name>Escaped Custody</name>
 			<hide amendoperation="addnode" />
 		</quality>
 		<quality>
-			<name>Groveler</name>
-			<hide />
-		</quality>
-		<quality>
 			<name>Hung Out to Dry</name>
 			<hide />
-		</quality>
-		<quality>
-			<name>In Debt</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>Lazy Fingers</name>
-			<hide amendoperation="addnode" />
 		</quality>
 		<quality>
 			<name>Neoteny</name>
@@ -305,19 +267,19 @@
 			<notes operation="addnode">Manually add a free Group Contact with Connection between 1 and 3 to represent the relevant gang or syndicate.</notes>
 		</quality>
 		<quality>
-			<name>Massive Network</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>Networker</name>
-			<hide amendoperation="addnode" />
-		</quality>
-		<quality>
 			<name>Observant</name>
 			<hide amendoperation="addnode" />
 		</quality>
 		<quality>
+			<name>Resonant Burnout</name>
+			<hide />
+		</quality>
+		<quality>
 			<name>One of Them</name>
+			<hide />
+		</quality>
+		<quality>
+			<name>So Jacked Up</name>
 			<hide />
 		</quality>
 		<quality>
@@ -327,10 +289,6 @@
 		<quality>
 			<name>Revels in Murder</name>
 			<hide />
-		</quality>
-		<quality>
-			<name>Stalwart Ally</name>
-			<hide amendoperation="addnode" />
 		</quality>
 		<quality>
 			<name>Changeling (Class I SURGE)</name>
@@ -348,10 +306,6 @@
 			</bonus>
 		</quality>
 		<quality>
-			<name>Well, Actually...</name>
-			<hide amendoperation="addnode" />
-		</quality>
-		<quality>
 			<name>'Ware Intolerance</name>
 			<hide amendoperation="addnode" />
 		</quality>
@@ -360,27 +314,7 @@
 			<hide amendoperation="addnode" />
 		</quality>
 		<quality>
-			<name>Stay Out of My Way</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>Stolen Gear</name>
-			<hide />
-		</quality>
-		<quality>
 			<name>Taboo Transformer</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>Team Player</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>This Is Your Last Chance</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>Tough and Targeted</name>
 			<hide />
 		</quality>
 		<quality>

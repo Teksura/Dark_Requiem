@@ -24,10 +24,6 @@
       <hide />
     </metamagic>
     <metamagic>
-      <name>Quickening</name>
-      <hide />
-    </metamagic>
-    <metamagic>
       <name>Power Point</name>
       <amendoperation="addnode">
         <oneof>
