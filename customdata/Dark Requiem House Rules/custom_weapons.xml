@@ -169,6 +169,30 @@
         <mount>Under</mount>
       </accessorymounts>
     </weapon>
-
+<weapon>
+      <id>fbeef107-e63b-4623-a7ba-58272d31e03c</id>
+      <name>Stormbringer K-98 Gauss Rifle</name>
+      <category>Assault Cannons</category>
+      <type>Ranged</type>
+      <conceal>10</conceal>
+      <accuracy>7</accuracy>
+      <reach>0</reach>
+      <damage>20P</damage>
+      <ap>-8</ap>
+      <mode>SA/BF</mode>
+      <rc>1</rc>
+      <ammo>10(c)</ammo>
+      <avail>18F</avail>
+      <cost>49500</cost>
+      <source>DR</source>
+      <page>428</page>
+      <accessorymounts>
+        <mount>Stock</mount>
+        <mount>Side</mount>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Under</mount>
+      </accessorymounts>
+    </weapon>
 	</weapons>
 </chummer>
