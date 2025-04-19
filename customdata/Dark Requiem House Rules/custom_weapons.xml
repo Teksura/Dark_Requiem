@@ -194,5 +194,30 @@
         <mount>Under</mount>
       </accessorymounts>
     </weapon>
+ <weapon>
+      <id>a3722080-ccab-4852-b566-d5237cfc108a</id>
+      <name>Punchline</name>
+      <category>Heavy Pistols</category>
+      <type>Ranged</type>
+      <conceal>0</conceal>
+      <accuracy>7</accuracy>
+      <reach>0</reach>
+      <damage>9P</damage>
+      <ap>-5</ap>
+      <mode>SS</mode>
+      <rc>0</rc>
+      <ammo>6(cy)</ammo>
+      <avail>14F</avail>
+      <cost>3800</cost>
+      <source>DR</source>
+      <page>427</page>
+      <accessorymounts>
+        <mount>Barrel</mount>
+        <mount>Top</mount>
+        <mount>Stock</mount>
+        <mount>Side</mount>
+      </accessorymounts>
+      <spec>Revolvers</spec>
+    </weapon>
 	</weapons>
 </chummer>
