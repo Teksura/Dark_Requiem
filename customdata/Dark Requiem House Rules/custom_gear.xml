@@ -335,5 +335,31 @@
 			</gears>
 			<notes>Doesn't include Cry Wolf.</notes>
 		</gear>
+    <gear>
+      <id>f17f6979-90ed-4e31-a48c-17a320283e41</id>
+      <name>Ammo: Mercury Rounds</name>
+      <category>Ammunition</category>
+      <rating>0</rating>
+      <source>DR</source>
+      <page>78</page>
+      <avail>89F</avail>
+      <cost>500</cost>
+      <costfor>10</costfor>
+      <weaponbonus>
+        <ap>-2</ap>
+        <damage>2</damage>
+      </weaponbonus>
+<notes> On a successful hit (even a glancing hit), the target must make a Body test Threshold of 4
+Effect if failed: –2 dice to all actions for 1d6 Action Passes due to neurotoxic effect
+Effect if glitched: immediately passes out for 3 Combat Turns
+Toxin Type: Custom engineered heavy-metal poison
+Effect stacks only 3x per target per combat
+
+Special Properties:
+Sensor Ghosting: Due to the reactive mercury cloud and dispersion, any attempts to notice where the bullets come from through visual means suffers an -3 dice pool penalty 
+Biohazard: Anyone retrieving or handling mercury rounds without protection must make a Body test Threshold 4 every 30 minutes or suffer 2 physical damage unresiststed, and a temporary –1 to Physical Limit for 10 minutes due to dermal exposure.
+</notes>
+      <ammoforweapontype>gun</ammoforweapontype>
+    </gear>
 	</gears>
 </chummer>
