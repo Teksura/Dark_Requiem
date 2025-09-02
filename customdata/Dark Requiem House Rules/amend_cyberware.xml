@@ -23,24 +23,6 @@
 	https://www.reddit.com/r/NeonAnarchy
 -->
 <chummer>
-	<grades>
-		<grade>
-			<name>Gammaware</name>
-			<hide />
-		</grade>
-		<grade>
-			<name>Omegaware</name>
-			<hide />
-		</grade>
-		<grade>
-			<name>Gammaware (Adapsin)</name>
-			<hide />
-		</grade>
-		<grade>
-			<name>Omegaware (Adapsin)</name>
-			<hide />
-		</grade>
-	</grades>
 	<cyberwares>
 		<cyberware>
 			<name>Junkyard Jaw</name>
