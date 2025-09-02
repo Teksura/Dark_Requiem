@@ -7,13 +7,13 @@
 	<spiritforcebasedontotalmag>False</spiritforcebasedontotalmag>
 	<nuyenperbpwftm>2000.0</nuyenperbpwftm>
 	<nuyenperbpwftp>2000.0</nuyenperbpwftp>
-	<unarmedimprovementsapplytoweapons>False</unarmedimprovementsapplytoweapons>
+	<unarmedimprovementsapplytoweapons>True</unarmedimprovementsapplytoweapons>
 	<allowinitiationincreatemode>False</allowinitiationincreatemode>
 	<usepointsonbrokengroups>False</usepointsonbrokengroups>
 	<dontdoublequalities>False</dontdoublequalities>
 	<dontdoublequalityrefunds>False</dontdoublequalityrefunds>
 	<ignoreart>False</ignoreart>
-	<cyberlegmovement>False</cyberlegmovement>
+	<cyberlegmovement>True</cyberlegmovement>
 	<contactpointsexpression>{CHAUnaug} * 6</contactpointsexpression>
 	<knowledgepointsexpression>({INTUnaug} + {LOGUnaug}) * 2</knowledgepointsexpression>
 	<chargenkarmatonuyenexpression>{Karma} * 2000 + {PriorityNuyen}</chargenkarmatonuyenexpression>
@@ -38,7 +38,7 @@
 	<nosinglearmorencumbrance>False</nosinglearmorencumbrance>
 	<ignorecomplexformlimit>False</ignorecomplexformlimit>
 	<noarmorencumbrance>False</noarmorencumbrance>
-	<uncappedarmoraccessorybonuses>False</uncappedarmoraccessorybonuses>
+	<uncappedarmoraccessorybonuses>True</uncappedarmoraccessorybonuses>
 	<esslossreducesmaximumonly>False</esslossreducesmaximumonly>
 	<allowskillregrouping>True</allowskillregrouping>
 	<specializationsbreakskillgroups>True</specializationsbreakskillgroups>
@@ -46,7 +46,7 @@
 	<metatypecostskarmamultiplier>1</metatypecostskarmamultiplier>
 	<limbcount>6</limbcount>
 	<excludelimbslot />
-	<allowcyberwareessdiscounts>False</allowcyberwareessdiscounts>
+	<allowcyberwareessdiscounts>True</allowcyberwareessdiscounts>
 	<maximumarmormodifications>False</maximumarmormodifications>
 	<armordegredation>False</armordegredation>
 	<specialkarmacostbasedonshownvalue>False</specialkarmacostbasedonshownvalue>
@@ -60,7 +60,7 @@
 	<multiplyforbiddencost>False</multiplyforbiddencost>
 	<restrictedcostmultiplier>1</restrictedcostmultiplier>
 	<forbiddencostmultiplier>1</forbiddencostmultiplier>
-	<donotroundessenceinternally>False</donotroundessenceinternally>
+	<donotroundessenceinternally>True</donotroundessenceinternally>
 	<enableenemytracking>True</enableenemytracking>
 	<enemykarmaqualitylimit>True</enemykarmaqualitylimit>
 	<nuyenformat>#,0.##</nuyenformat>
@@ -166,9 +166,13 @@
 		<book>SSP</book>
 		<book>NP</book>
 		<book>DT</book>
+		<book>DTD</book>
 		<book>CF</book>
 		<book>HT</book>
 		<book>BLB</book>
+		<book>SHB</book>
+		<book>SHB2</book>
+		<book>SHB3</book>
 		<book>R5</book>
 		<book>HS</book>
 		<book>TVG</book>
@@ -181,16 +185,21 @@
 		<book>CA</book>
 		<book>BOTL</book>
 		<book>FA</book>
+		<book>SAG</book>
 		<book>TCT</book>
 		<book>SFCC</book>
 		<book>DTR</book>
 		<book>TSG</book>
 		<book>SL</book>
 		<book>KC</book>
+		<book>HAMG</book>
 		<book>BTB</book>
 		<book>AET</book>
 		<book>NF</book>
+		<book>SOTG</book>
+		<book>DPVG</book>
 		<book>KK</book>
+		<book>GE</book>
 		<book>SW</book>
 		<book>DR</book>
 		<book>MST</book>
@@ -220,13 +229,4 @@
 	<sumtoten>10</sumtoten>
 	<availability>15</availability>
 	<nuyenmaxbp>25</nuyenmaxbp>
-	<bannedwaregrades>
-		<grade>Betaware</grade>
-		<grade>Deltaware</grade>
-		<grade>Gammaware</grade>
-	</bannedwaregrades>
-	<redlinerexclusion>
-		<limb>skull</limb>
-		<limb>torso</limb>
-	</redlinerexclusion>
 </settings>

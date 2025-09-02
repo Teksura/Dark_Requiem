@@ -60,7 +60,7 @@
 	<multiplyforbiddencost>False</multiplyforbiddencost>
 	<restrictedcostmultiplier>1</restrictedcostmultiplier>
 	<forbiddencostmultiplier>1</forbiddencostmultiplier>
-	<donotroundessenceinternally>False</donotroundessenceinternally>
+	<donotroundessenceinternally>True</donotroundessenceinternally>
 	<enableenemytracking>True</enableenemytracking>
 	<enemykarmaqualitylimit>True</enemykarmaqualitylimit>
 	<nuyenformat>#,0.##</nuyenformat>
@@ -169,6 +169,9 @@
 		<book>CF</book>
 		<book>HT</book>
 		<book>BLB</book>
+		<book>SHB</book>
+		<book>SHB2</book>
+		<book>SHB3</book>
 		<book>R5</book>
 		<book>HS</book>
 		<book>TVG</book>
@@ -181,16 +184,21 @@
 		<book>CA</book>
 		<book>BOTL</book>
 		<book>FA</book>
+		<book>SAG</book>
 		<book>TCT</book>
 		<book>SFCC</book>
 		<book>DTR</book>
 		<book>TSG</book>
 		<book>SL</book>
 		<book>KC</book>
+		<book>HAMG</book>
 		<book>BTB</book>
 		<book>AET</book>
 		<book>NF</book>
+		<book>SOTG</book>
+		<book>DPVG</book>
 		<book>KK</book>
+		<book>GE</book>
 		<book>SW</book>
 		<book>DR</book>
 		<book>MST</book>
@@ -220,13 +228,4 @@
 	<sumtoten>10</sumtoten>
 	<availability>12</availability>
 	<nuyenmaxbp>10</nuyenmaxbp>
-	<bannedwaregrades>
-		<grade>Betaware</grade>
-		<grade>Deltaware</grade>
-		<grade>Gammaware</grade>
-	</bannedwaregrades>
-	<redlinerexclusion>
-		<limb>skull</limb>
-		<limb>torso</limb>
-	</redlinerexclusion>
 </settings>
