@@ -105,8 +105,8 @@
 			<name>Dodge Minotaur</name>
 			<avail>16R</avail>
 		</vehicle>
- <vehicle xpathfilter="(category = 'Drones: Anthro' and body = 6)">
-      <modslots>12</<modslots>
+ 	<vehicle xpathfilter="(category = 'Drones: Anthro' and body = 6)">
+      <modslots>12</modslots>
     </vehicle>
 	</vehicles>
 	<mods>
