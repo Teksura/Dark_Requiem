@@ -18,25 +18,21 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer>
-  <metamagics>
-    <metamagic>
-      <name>Anchoring</name>
-      <hide />
-    </metamagic>
-    <metamagic>
-      <name>Power Point</name>
-      <amendoperation="addnode">
-        <oneof>
-          <quality>Purity Bonus (Adept)</quality>
-        </oneof>
-    </metamagic>
-  </metamagics>
-  <!--
-  <arts>
-    <art>
-      <name>Blood Magic</name>
-      <hide />
-    </art>
-  </arts>
+	<metamagics>
+		<metamagic>
+			<name>Anchoring</name>
+			<hide />
+		</metamagic>
+		<metamagic>
+			<name>Power Point</name>
+			<forbidden amendoperation="addnode">
+				<oneof>
+					<quality>Purity Bonus (Adept)</quality>
+				</oneof>
+			</forbidden>
+		</metamagic>
+	</metamagics>
+	<!--
+  <arts><art><name>Blood Magic</name><hide /></art></arts>
   -->
 </chummer>
