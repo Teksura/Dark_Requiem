@@ -18,7 +18,7 @@
 	<knowledgepointsexpression>({INTUnaug} + {LOGUnaug}) * 2</knowledgepointsexpression>
 	<chargenkarmatonuyenexpression>{Karma} * 2000 + {PriorityNuyen}</chargenkarmatonuyenexpression>
 	<boundspiritexpression>{CHA}</boundspiritexpression>
-	<compiledspriteexpression>{LOG}</compiledspriteexpression>
+	<registeredspriteexpression>{LOG}</registeredspriteexpression>
 	<essencemodifierpostexpression>{Modifier}</essencemodifierpostexpression>
 	<liftlimitexpression>{STR} * 15</liftlimitexpression>
 	<carrylimitexpression>{STR} * 10</carrylimitexpression>
@@ -77,7 +77,6 @@
 	<dontusecyberlimbcalculation>False</dontusecyberlimbcalculation>
 	<alternatemetatypeattributekarma>False</alternatemetatypeattributekarma>
 	<reverseattributepriorityorder>False</reverseattributepriorityorder>
-	<allowobsolescentupgrade>False</allowobsolescentupgrade>
 	<allowbiowaresuites>False</allowbiowaresuites>
 	<freespiritpowerpointsmag>False</freespiritpowerpointsmag>
 	<compensateskillgroupkarmadifference>False</compensateskillgroupkarmadifference>
@@ -228,5 +227,14 @@
 	<prioritytable>Prime Runner</prioritytable>
 	<sumtoten>10</sumtoten>
 	<availability>15</availability>
+	<maxmartialarts>1</maxmartialarts>
+	<maxmartialtechniques>5</maxmartialtechniques>
+	<nuyencarryover>5000</nuyencarryover>
 	<nuyenmaxbp>25</nuyenmaxbp>
+	<bannedwaregrades>
+		<grade>Betaware</grade>
+		<grade>Deltaware</grade>
+		<grade>Gammaware</grade>
+	</bannedwaregrades>
+	<redlinerexclusion />
 </settings>
